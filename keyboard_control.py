@@ -1,7 +1,7 @@
 import serial #serial imported for Serial Communication
 import time #required to use delay functions
 
-ArduinoSerial = serial.Serial('/dev/ttyACM0',9600)
+ArduinoSerial = serial.Serial('/dev/ttyACM0',9600) #change /dev/ttyACM0 with the serial port on your computer
 #sleeping for 2 seconds for communication to be established
 time.sleep(2)
 
