@@ -8,4 +8,6 @@ The ino file is same as the keyboard_control uses.
 
 # full_functionality_tilt_car_project
 This is an update on the previous version "tilt_car_project". This one provides the car functionality to move forward, backward, turn right and turn left.
+To move the car in this setting, first open up the app in your android device, then enter the internal ip address xxx.xxx.x.xx:5000
+Open up the python file for this while the ino code is already uploaded.
 
