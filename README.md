@@ -11,3 +11,5 @@ This is an update on the previous version "tilt_car_project". This one provides 
 To move the car in this setting, first open up the app in your android device, then enter the internal ip address xxx.xxx.x.xx:5000
 Open up the python file for this while the ino code is already uploaded.
 
+# Bluetooth connection link
+https://www.jaredwolff.com/get-started-with-bluetooth-low-energy/#show1
