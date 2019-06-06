@@ -15,7 +15,5 @@ Open up the python file for this while the ino code is already uploaded.
 https://www.jaredwolff.com/get-started-with-bluetooth-low-energy/#show1
 
 # Setting up ESP8266MOD node-mcu
-Enter https://arduino.esp8266.com/stable/package_esp8266com_index.json into Additional Board Manager URLs field. You can add multiple URLs, separating them with commas. This is found under the preferences section under File.
-Go to Tools and select Board "NodeMCU 1.0 (ESP-12E Module)"
-Insert the NodeMCU and select the PORT
+https://www.youtube.com/watch?v=NEo1WsT5T7s
 
