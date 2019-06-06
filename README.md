@@ -17,4 +17,6 @@ https://www.jaredwolff.com/get-started-with-bluetooth-low-energy/#show1
 # Setting up ESP8266MOD node-mcu
 https://www.youtube.com/watch?v=NEo1WsT5T7s ;
 iwgetid - command to discover the SSID name of the wifi network you are connected to ;
+https://tttapa.github.io/ESP8266/Chap07%20-%20Wi-Fi%20Connections.html (FOLLOW THIS TUTORIAL);
+PS: Use your phone's network beacause the general wifi might be too crowded
 
