@@ -20,6 +20,7 @@ iwgetid - command to discover the SSID name of the wifi network you are connecte
 https://tttapa.github.io/ESP8266/Chap07%20-%20Wi-Fi%20Connections.html (FOLLOW THIS TUTORIAL) ;
 PS: Use your phone's network beacause the general wifi might be too crowded ;
 Tutorial to establish communication between esp8266 and python by server-client method -- https://www.youtube.com/watch?v=CpWhlJXKuDg ::: The description of this video also has some information about json and webservers in general ;
+Tutorial to establish connection between arduino and esp8266(nodemcu) using Serial communication -- https://mybtechprojects.tech/serial-communication-between-nodemcu-and-arduino/  ;
 
 
 
